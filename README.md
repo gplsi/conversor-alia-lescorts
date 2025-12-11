@@ -78,7 +78,7 @@ Por favor, cita este conjunto de datos usando la siguiente entrada BibTeX:
   title        = {ALIA_lescorts Conversor}, 
   year         = {2025},
   institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
-  howpublished = {\url{https://github.com/gplsi/scraper-alia-uv}}
+  howpublished = {\url{https://github.com/gplsi/conversor-alia-lescorts}}
 }
 ```
 
